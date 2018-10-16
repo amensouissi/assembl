@@ -112,9 +112,7 @@ exports[`Storyshots InstructionsText default 1`] = `
     >
       ×
     </button>
-    <div
-      style={undefined}
-    >
+    <div>
       <div
         style={
           Object {
@@ -442,9 +440,7 @@ exports[`Storyshots InstructionsText playground 1`] = `
     >
       ×
     </button>
-    <div
-      style={undefined}
-    >
+    <div>
       <div
         style={
           Object {

@@ -86,9 +86,7 @@ exports[`Storyshots Checkbox101 checked 1`] = `
     >
       ×
     </button>
-    <div
-      style={undefined}
-    >
+    <div>
       <div
         style={
           Object {
@@ -473,9 +471,7 @@ exports[`Storyshots Checkbox101 custom label 1`] = `
     >
       ×
     </button>
-    <div
-      style={undefined}
-    >
+    <div>
       <div
         style={
           Object {
@@ -879,9 +875,7 @@ exports[`Storyshots Checkbox101 default 1`] = `
     >
       ×
     </button>
-    <div
-      style={undefined}
-    >
+    <div>
       <div
         style={
           Object {
@@ -1258,9 +1252,7 @@ exports[`Storyshots Checkbox101 playground 1`] = `
     >
       ×
     </button>
-    <div
-      style={undefined}
-    >
+    <div>
       <div
         style={
           Object {

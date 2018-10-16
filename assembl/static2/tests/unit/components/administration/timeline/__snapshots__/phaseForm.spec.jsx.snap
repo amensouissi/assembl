@@ -30,7 +30,7 @@ exports[`PhaseForm component should render a form to update the dates and module
         locale="fr"
         monthsShown={1}
         onBlur={[Function]}
-        onChange={[Function]}
+        onChange={[MockFunction]}
         onClickOutside={[Function]}
         onFocus={[Function]}
         onKeyDown={[Function]}
@@ -82,7 +82,7 @@ exports[`PhaseForm component should render a form to update the dates and module
         locale="fr"
         monthsShown={1}
         onBlur={[Function]}
-        onChange={[Function]}
+        onChange={[MockFunction]}
         onClickOutside={[Function]}
         onFocus={[Function]}
         onKeyDown={[Function]}
@@ -121,7 +121,7 @@ exports[`PhaseForm component should render a form to update the dates and module
     <SplitButton
       className="admin-dropdown"
       id="dropdown-1234"
-      onSelect={[Function]}
+      onSelect={[MockFunction]}
       title="Survey module"
     >
       <MenuItem

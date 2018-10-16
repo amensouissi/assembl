@@ -72,9 +72,7 @@ exports[`Storyshots CheckboxList101 Empty list 1`] = `
     >
       ×
     </button>
-    <div
-      style={undefined}
-    >
+    <div>
       <div
         style={
           Object {
@@ -409,9 +407,7 @@ exports[`Storyshots CheckboxList101 List of 5 1`] = `
     >
       ×
     </button>
-    <div
-      style={undefined}
-    >
+    <div>
       <div
         style={
           Object {
@@ -1010,9 +1006,7 @@ exports[`Storyshots CheckboxList101 playground 1`] = `
     >
       ×
     </button>
-    <div
-      style={undefined}
-    >
+    <div>
       <div
         style={
           Object {

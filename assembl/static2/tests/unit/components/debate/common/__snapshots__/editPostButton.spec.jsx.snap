@@ -3,7 +3,7 @@
 exports[`EditPostButton component should render an edit post button 1`] = `
 <Link
   className="my-custom-class"
-  onClick={[Function]}
+  onClick={[MockFunction]}
   onlyActiveOnIndex={false}
   style={Object {}}
 >

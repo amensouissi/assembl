@@ -79,9 +79,7 @@ exports[`Storyshots Button101 danger 1`] = `
     >
       ×
     </button>
-    <div
-      style={undefined}
-    >
+    <div>
       <div
         style={
           Object {
@@ -440,9 +438,7 @@ exports[`Storyshots Button101 default 1`] = `
     >
       ×
     </button>
-    <div
-      style={undefined}
-    >
+    <div>
       <div
         style={
           Object {
@@ -801,9 +797,7 @@ exports[`Storyshots Button101 disabled 1`] = `
     >
       ×
     </button>
-    <div
-      style={undefined}
-    >
+    <div>
       <div
         style={
           Object {
@@ -1144,9 +1138,7 @@ exports[`Storyshots Button101 playground 1`] = `
     >
       ×
     </button>
-    <div
-      style={undefined}
-    >
+    <div>
       <div
         style={
           Object {

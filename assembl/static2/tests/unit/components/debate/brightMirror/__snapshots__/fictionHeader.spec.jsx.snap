@@ -100,9 +100,7 @@ exports[`Storyshots FictionHeader default 1`] = `
     >
       ×
     </button>
-    <div
-      style={undefined}
-    >
+    <div>
       <div
         style={
           Object {
@@ -529,9 +527,7 @@ exports[`Storyshots FictionHeader playground 1`] = `
     >
       ×
     </button>
-    <div
-      style={undefined}
-    >
+    <div>
       <div
         style={
           Object {

@@ -76,9 +76,7 @@ exports[`Storyshots CircleAvatar default 1`] = `
     >
       ×
     </button>
-    <div
-      style={undefined}
-    >
+    <div>
       <div
         style={
           Object {
@@ -370,9 +368,7 @@ exports[`Storyshots CircleAvatar no username 1`] = `
     >
       ×
     </button>
-    <div
-      style={undefined}
-    >
+    <div>
       <div
         style={
           Object {
@@ -664,9 +660,7 @@ exports[`Storyshots CircleAvatar playground 1`] = `
     >
       ×
     </button>
-    <div
-      style={undefined}
-    >
+    <div>
       <div
         style={
           Object {

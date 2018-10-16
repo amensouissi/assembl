@@ -161,9 +161,7 @@ exports[`Storyshots FictionPreview default 1`] = `
     >
       ×
     </button>
-    <div
-      style={undefined}
-    >
+    <div>
       <div
         style={
           Object {
@@ -836,9 +834,7 @@ exports[`Storyshots FictionPreview playground 1`] = `
     >
       ×
     </button>
-    <div
-      style={undefined}
-    >
+    <div>
       <div
         style={
           Object {
