@@ -226,7 +226,7 @@ from .idea_content_link import (  # noqa: E402, F401
     IdeaContentWidgetLink,
     IdeaRelatedPostLink,
     IdeaThreadContextBreakLink,
-    TextFragmentIdentifier,
+    TextFragmentIdentifier
 )
 from .idea_graph_view import (  # noqa: E402, F401
     ExplicitSubGraphView,
@@ -343,6 +343,12 @@ from .attachment import (  # noqa: E402, F401
 from .announcement import (  # noqa: E402, F401
     Announcement,
     IdeaAnnouncement,
+)
+
+
+from .tag import (  # noqa: E402, F401
+    Tag,
+    ExtractsTagsAssociation
 )
 
 from .resource import Resource  # noqa: E402, F401
